@@ -26,5 +26,5 @@ CEF as frontend to display Vue based web gui.
 1. back to project root, `gradlew BuildWebUI` to build web files.
 1. `gradlew SyncWebUI` to copy web files to spring project
 1. `gradlew bootjar` to build SpringBoot bootjar
-1. with bootjar**mustly under `/build/libs`** extract natives from step 1. into `/natives`
+1. with bootjar **mostly under `/build/libs`** extract natives from step 1. into `/natives`
 1. `javaw -jar XXXX.jar` while see what happend~
