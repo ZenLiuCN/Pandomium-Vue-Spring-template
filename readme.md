@@ -28,3 +28,5 @@ CEF as frontend to display Vue based web gui.
 1. `gradlew bootjar` to build SpringBoot bootjar
 1. with bootjar **mostly under `/build/libs`** extract natives from step 1. into `/natives`
 1. `javaw -jar XXXX.jar` while see what happend~
+
+# other one with go see [ZenLiuCN/zcef](https://github.com/ZenLiuCN/zcef)
